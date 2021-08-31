@@ -25,9 +25,11 @@
   "devDependencies": {
     "autoprefixer": "^10.3.3",
     "css-loader": "^6.2.0",
+    "postcss-import": "^14.0.2",
     "postcss-loader": "^6.1.1",
     "postcss-nested": "^5.0.6",
     "postcss-simple-vars": "^6.0.3",
-    "style-loader": "^3.2.1"
+    "style-loader": "^3.2.1",
+    "webpack-dev-server": "^4.1.0"
   }
 }
