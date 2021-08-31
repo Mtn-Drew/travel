@@ -1,0 +1,25 @@
+{
+  "name": "travel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mtn-Drew/travel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mtn-Drew/travel/issues"
+  },
+  "homepage": "https://github.com/Mtn-Drew/travel#readme",
+  "dependencies": {
+    "normalize.css": "^8.0.1",
+    "webpack": "^5.51.1",
+    "webpack-cli": "^4.8.0"
+  }
+}
